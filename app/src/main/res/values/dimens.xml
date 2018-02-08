@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="eightDP">8dp</dimen>
+    <dimen name="sixteenDP">16dp</dimen>
+    <dimen name="fortyDP">40dp</dimen>
+    <dimen name="fortyEightDP">48dp</dimen>
+    <dimen name="twoHundredTwelveDP">212dp</dimen>
+    <dimen name="buttonWidth">93dp</dimen>
+    <dimen name="buttonHeight">85dp</dimen>
+</resources>
