@@ -10,3 +10,13 @@ Create an app that takes an input for an amount, an input for number of people s
 ![pic2](https://github.com/ricky52194/TipCalculator-Ramos/blob/master/landscapeActivity2.png)  
 ![pic3](https://github.com/ricky52194/TipCalculator-Ramos/blob/master/portraitActivity1.png)  
 ![pic4](https://github.com/ricky52194/TipCalculator-Ramos/blob/master/portraitActivity2.png)  
+
+
+## WOW Factors:
+1. Custom toast messages are displayed depending on which tip button you pick.  
+2. Colorful, circular buttons have been added for RESET, CALCULATE, and RETURN.  
+3. All backgrounds have been changed to a bluish color.  
+4. An intent was used to start another activity which displays all the calculations in an easy-to-read format for the user.  
+
+## Reference(s):
+1. Circular Buttons: https://stackoverflow.com/questions/9884202/custom-circle-button (User: Adil Soomro)   
